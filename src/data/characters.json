@@ -1,0 +1,1683 @@
+[
+  {
+    "id": "ren_person",
+    "traditional": "人",
+    "simplified": "人",
+    "pinyin": "rén",
+    "zhuyin": "ㄖㄣˊ",
+    "emoji": "🧑",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "xiǎo",
+          "speakerChar": "小"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "rì",
+          "speakerChar": "日"
+        },
+        {
+          "pinyin": "rè",
+          "speakerChar": "熱"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "rěn",
+          "speakerChar": "忍"
+        },
+        {
+          "pinyin": "rèn",
+          "speakerChar": "認"
+        }
+      ]
+    }
+  },
+  {
+    "id": "kou_mouth",
+    "traditional": "口",
+    "simplified": "口",
+    "pinyin": "kǒu",
+    "zhuyin": "ㄎㄡˇ",
+    "emoji": "👄",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        },
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "kāi",
+          "speakerChar": "開"
+        },
+        {
+          "pinyin": "kě",
+          "speakerChar": "渴"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "kòu",
+          "speakerChar": "扣"
+        },
+        {
+          "pinyin": "kōu",
+          "speakerChar": "摳"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shou_hand",
+    "traditional": "手",
+    "simplified": "手",
+    "pinyin": "shǒu",
+    "zhuyin": "ㄕㄡˇ",
+    "emoji": "🤚",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "tián",
+          "speakerChar": "田"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "shān",
+          "speakerChar": "山"
+        },
+        {
+          "pinyin": "shàng",
+          "speakerChar": "上"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "shòu",
+          "speakerChar": "瘦"
+        },
+        {
+          "pinyin": "shōu",
+          "speakerChar": "收"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mu_eye",
+    "traditional": "目",
+    "simplified": "目",
+    "pinyin": "mù",
+    "zhuyin": "ㄇㄨˋ",
+    "emoji": "👁️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "gǒu",
+          "speakerChar": "狗"
+        },
+        {
+          "pinyin": "tiān",
+          "speakerChar": "天"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "mén",
+          "speakerChar": "門"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mǔ",
+          "speakerChar": "母"
+        },
+        {
+          "pinyin": "mú",
+          "speakerChar": "模"
+        }
+      ]
+    }
+  },
+  {
+    "id": "er_ear",
+    "traditional": "耳",
+    "simplified": "耳",
+    "pinyin": "ěr",
+    "zhuyin": "ㄦˇ",
+    "emoji": "👂",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "huā",
+          "speakerChar": "花"
+        },
+        {
+          "pinyin": "chē",
+          "speakerChar": "車"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "wǒ",
+          "speakerChar": "我"
+        },
+        {
+          "pinyin": "ài",
+          "speakerChar": "愛"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "èr",
+          "speakerChar": "二"
+        },
+        {
+          "pinyin": "ér",
+          "speakerChar": "兒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shan_mountain",
+    "traditional": "山",
+    "simplified": "山",
+    "pinyin": "shān",
+    "zhuyin": "ㄕㄢ",
+    "emoji": "⛰️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        },
+        {
+          "pinyin": "bà",
+          "speakerChar": "爸"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "shǒu",
+          "speakerChar": "手"
+        },
+        {
+          "pinyin": "shuǐ",
+          "speakerChar": "水"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "shǎn",
+          "speakerChar": "閃"
+        },
+        {
+          "pinyin": "shàn",
+          "speakerChar": "扇"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shui_water",
+    "traditional": "水",
+    "simplified": "水",
+    "pinyin": "shuǐ",
+    "zhuyin": "ㄕㄨㄟˇ",
+    "emoji": "💧",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "hǎo",
+          "speakerChar": "好"
+        },
+        {
+          "pinyin": "niǎo",
+          "speakerChar": "鳥"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "shān",
+          "speakerChar": "山"
+        },
+        {
+          "pinyin": "shàng",
+          "speakerChar": "上"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "shuì",
+          "speakerChar": "睡"
+        },
+        {
+          "pinyin": "shuí",
+          "speakerChar": "誰"
+        }
+      ]
+    }
+  },
+  {
+    "id": "huo_fire",
+    "traditional": "火",
+    "simplified": "火",
+    "pinyin": "huǒ",
+    "zhuyin": "ㄏㄨㄛˇ",
+    "emoji": "🔥",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "rén",
+          "speakerChar": "人"
+        },
+        {
+          "pinyin": "xià",
+          "speakerChar": "下"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "huā",
+          "speakerChar": "花"
+        },
+        {
+          "pinyin": "hǎo",
+          "speakerChar": "好"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "huò",
+          "speakerChar": "或"
+        },
+        {
+          "pinyin": "huó",
+          "speakerChar": "活"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mu_tree",
+    "traditional": "木",
+    "simplified": "木",
+    "pinyin": "mù",
+    "zhuyin": "ㄇㄨˋ",
+    "emoji": "🪵",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shàng",
+          "speakerChar": "上"
+        },
+        {
+          "pinyin": "gǒu",
+          "speakerChar": "狗"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        },
+        {
+          "pinyin": "mā",
+          "speakerChar": "媽"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mǔ",
+          "speakerChar": "母"
+        },
+        {
+          "pinyin": "mú",
+          "speakerChar": "模"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ri_sun",
+    "traditional": "日",
+    "simplified": "日",
+    "pinyin": "rì",
+    "zhuyin": "ㄖˋ",
+    "emoji": "☀️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mā",
+          "speakerChar": "媽"
+        },
+        {
+          "pinyin": "xiǎo",
+          "speakerChar": "小"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "rén",
+          "speakerChar": "人"
+        },
+        {
+          "pinyin": "rè",
+          "speakerChar": "熱"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "lì",
+          "speakerChar": "力"
+        },
+        {
+          "pinyin": "shí",
+          "speakerChar": "十"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yue_moon",
+    "traditional": "月",
+    "simplified": "月",
+    "pinyin": "yuè",
+    "zhuyin": "ㄩㄝˋ",
+    "emoji": "🌙",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "kǒu",
+          "speakerChar": "口"
+        },
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "yǔ",
+          "speakerChar": "雨"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "yuē",
+          "speakerChar": "約"
+        },
+        {
+          "pinyin": "yún",
+          "speakerChar": "雲"
+        }
+      ]
+    }
+  },
+  {
+    "id": "da_big",
+    "traditional": "大",
+    "simplified": "大",
+    "pinyin": "dà",
+    "zhuyin": "ㄉㄚˋ",
+    "emoji": "🐘",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shǒu",
+          "speakerChar": "手"
+        },
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "dì",
+          "speakerChar": "弟"
+        },
+        {
+          "pinyin": "duō",
+          "speakerChar": "多"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "dá",
+          "speakerChar": "答"
+        },
+        {
+          "pinyin": "dǎ",
+          "speakerChar": "打"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xiao_small",
+    "traditional": "小",
+    "simplified": "小",
+    "pinyin": "xiǎo",
+    "zhuyin": "ㄒㄧㄠˇ",
+    "emoji": "🐭",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mù",
+          "speakerChar": "木"
+        },
+        {
+          "pinyin": "chē",
+          "speakerChar": "車"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "xià",
+          "speakerChar": "下"
+        },
+        {
+          "pinyin": "xǐ",
+          "speakerChar": "洗"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "xiào",
+          "speakerChar": "笑"
+        },
+        {
+          "pinyin": "xiāo",
+          "speakerChar": "消"
+        }
+      ]
+    }
+  },
+  {
+    "id": "shang_up",
+    "traditional": "上",
+    "simplified": "上",
+    "pinyin": "shàng",
+    "zhuyin": "ㄕㄤˋ",
+    "emoji": "⬆️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "bà",
+          "speakerChar": "爸"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "shǒu",
+          "speakerChar": "手"
+        },
+        {
+          "pinyin": "shuǐ",
+          "speakerChar": "水"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "shāng",
+          "speakerChar": "傷"
+        },
+        {
+          "pinyin": "shǎng",
+          "speakerChar": "賞"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xia_down",
+    "traditional": "下",
+    "simplified": "下",
+    "pinyin": "xià",
+    "zhuyin": "ㄒㄧㄚˋ",
+    "emoji": "⬇️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "māo",
+          "speakerChar": "貓"
+        },
+        {
+          "pinyin": "ěr",
+          "speakerChar": "耳"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "xiǎo",
+          "speakerChar": "小"
+        },
+        {
+          "pinyin": "xǐ",
+          "speakerChar": "洗"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "xiā",
+          "speakerChar": "蝦"
+        },
+        {
+          "pinyin": "xiá",
+          "speakerChar": "俠"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tian_sky",
+    "traditional": "天",
+    "simplified": "天",
+    "pinyin": "tiān",
+    "zhuyin": "ㄊㄧㄢ",
+    "emoji": "☁️",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "kǒu",
+          "speakerChar": "口"
+        },
+        {
+          "pinyin": "shuǐ",
+          "speakerChar": "水"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "tā",
+          "speakerChar": "他"
+        },
+        {
+          "pinyin": "tóu",
+          "speakerChar": "頭"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "tián",
+          "speakerChar": "田"
+        },
+        {
+          "pinyin": "tiē",
+          "speakerChar": "貼"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hua_flower",
+    "traditional": "花",
+    "simplified": "花",
+    "pinyin": "huā",
+    "zhuyin": "ㄏㄨㄚ",
+    "emoji": "🌸",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "ěr",
+          "speakerChar": "耳"
+        },
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "huǒ",
+          "speakerChar": "火"
+        },
+        {
+          "pinyin": "hē",
+          "speakerChar": "喝"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "huá",
+          "speakerChar": "滑"
+        },
+        {
+          "pinyin": "huà",
+          "speakerChar": "話"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cao_grass",
+    "traditional": "草",
+    "simplified": "草",
+    "pinyin": "cǎo",
+    "zhuyin": "ㄘㄠˇ",
+    "emoji": "🌿",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "rén",
+          "speakerChar": "人"
+        },
+        {
+          "pinyin": "yuè",
+          "speakerChar": "月"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "chē",
+          "speakerChar": "車"
+        },
+        {
+          "pinyin": "chī",
+          "speakerChar": "吃"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "cāo",
+          "speakerChar": "操"
+        },
+        {
+          "pinyin": "cáo",
+          "speakerChar": "曹"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yu_fish",
+    "traditional": "魚",
+    "simplified": "鱼",
+    "pinyin": "yú",
+    "zhuyin": "ㄩˊ",
+    "emoji": "🐟",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        },
+        {
+          "pinyin": "shān",
+          "speakerChar": "山"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "yuè",
+          "speakerChar": "月"
+        },
+        {
+          "pinyin": "yáng",
+          "speakerChar": "羊"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "yǔ",
+          "speakerChar": "雨"
+        },
+        {
+          "pinyin": "yù",
+          "speakerChar": "玉"
+        }
+      ]
+    }
+  },
+  {
+    "id": "niao_bird",
+    "traditional": "鳥",
+    "simplified": "鸟",
+    "pinyin": "niǎo",
+    "zhuyin": "ㄋㄧㄠˇ",
+    "emoji": "🐦",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "huǒ",
+          "speakerChar": "火"
+        },
+        {
+          "pinyin": "mù",
+          "speakerChar": "目"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        },
+        {
+          "pinyin": "nǐ",
+          "speakerChar": "你"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "niào",
+          "speakerChar": "尿"
+        },
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ma_horse",
+    "traditional": "馬",
+    "simplified": "马",
+    "pinyin": "mǎ",
+    "zhuyin": "ㄇㄚˇ",
+    "emoji": "🐴",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "xià",
+          "speakerChar": "下"
+        },
+        {
+          "pinyin": "rì",
+          "speakerChar": "日"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mén",
+          "speakerChar": "門"
+        },
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mā",
+          "speakerChar": "媽"
+        },
+        {
+          "pinyin": "mà",
+          "speakerChar": "罵"
+        }
+      ]
+    }
+  },
+  {
+    "id": "niu_cow",
+    "traditional": "牛",
+    "simplified": "牛",
+    "pinyin": "niú",
+    "zhuyin": "ㄋㄧㄡˊ",
+    "emoji": "🐮",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "hǎo",
+          "speakerChar": "好"
+        },
+        {
+          "pinyin": "shàng",
+          "speakerChar": "上"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "niǎo",
+          "speakerChar": "鳥"
+        },
+        {
+          "pinyin": "nǐ",
+          "speakerChar": "你"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "niǔ",
+          "speakerChar": "紐"
+        },
+        {
+          "pinyin": "niù",
+          "speakerChar": "拗"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yang_sheep",
+    "traditional": "羊",
+    "simplified": "羊",
+    "pinyin": "yáng",
+    "zhuyin": "ㄧㄤˊ",
+    "emoji": "🐑",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "kǒu",
+          "speakerChar": "口"
+        },
+        {
+          "pinyin": "chī",
+          "speakerChar": "吃"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "yī",
+          "speakerChar": "一"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "yǎng",
+          "speakerChar": "養"
+        },
+        {
+          "pinyin": "yàng",
+          "speakerChar": "樣"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mao_cat",
+    "traditional": "貓",
+    "simplified": "猫",
+    "pinyin": "māo",
+    "zhuyin": "ㄇㄠ",
+    "emoji": "🐱",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shuǐ",
+          "speakerChar": "水"
+        },
+        {
+          "pinyin": "èr",
+          "speakerChar": "二"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "máo",
+          "speakerChar": "毛"
+        },
+        {
+          "pinyin": "mào",
+          "speakerChar": "帽"
+        }
+      ]
+    }
+  },
+  {
+    "id": "gou_dog",
+    "traditional": "狗",
+    "simplified": "狗",
+    "pinyin": "gǒu",
+    "zhuyin": "ㄍㄡˇ",
+    "emoji": "🐶",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "tiān",
+          "speakerChar": "天"
+        },
+        {
+          "pinyin": "wǒ",
+          "speakerChar": "我"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "gāo",
+          "speakerChar": "高"
+        },
+        {
+          "pinyin": "gè",
+          "speakerChar": "個"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "gòu",
+          "speakerChar": "夠"
+        },
+        {
+          "pinyin": "gōu",
+          "speakerChar": "鉤"
+        }
+      ]
+    }
+  },
+  {
+    "id": "che_car",
+    "traditional": "車",
+    "simplified": "车",
+    "pinyin": "chē",
+    "zhuyin": "ㄔㄜ",
+    "emoji": "🚗",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "niǎo",
+          "speakerChar": "鳥"
+        },
+        {
+          "pinyin": "mù",
+          "speakerChar": "目"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "cǎo",
+          "speakerChar": "草"
+        },
+        {
+          "pinyin": "chī",
+          "speakerChar": "吃"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "chè",
+          "speakerChar": "徹"
+        },
+        {
+          "pinyin": "chě",
+          "speakerChar": "扯"
+        }
+      ]
+    }
+  },
+  {
+    "id": "men_door",
+    "traditional": "門",
+    "simplified": "门",
+    "pinyin": "mén",
+    "zhuyin": "ㄇㄣˊ",
+    "emoji": "🚪",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "cǎo",
+          "speakerChar": "草"
+        },
+        {
+          "pinyin": "yī",
+          "speakerChar": "一"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "mā",
+          "speakerChar": "媽"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mēn",
+          "speakerChar": "悶"
+        },
+        {
+          "pinyin": "mèn",
+          "speakerChar": "燜"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yu_rain",
+    "traditional": "雨",
+    "simplified": "雨",
+    "pinyin": "yǔ",
+    "zhuyin": "ㄩˇ",
+    "emoji": "🌧️",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        },
+        {
+          "pinyin": "gǒu",
+          "speakerChar": "狗"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "yī",
+          "speakerChar": "一"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "yù",
+          "speakerChar": "玉"
+        }
+      ]
+    }
+  },
+  {
+    "id": "mi_rice",
+    "traditional": "米",
+    "simplified": "米",
+    "pinyin": "mǐ",
+    "zhuyin": "ㄇㄧˇ",
+    "emoji": "🍚",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "huā",
+          "speakerChar": "花"
+        },
+        {
+          "pinyin": "tā",
+          "speakerChar": "他"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "mù",
+          "speakerChar": "目"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mí",
+          "speakerChar": "迷"
+        },
+        {
+          "pinyin": "mì",
+          "speakerChar": "蜜"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tian_field",
+    "traditional": "田",
+    "simplified": "田",
+    "pinyin": "tián",
+    "zhuyin": "ㄊㄧㄢˊ",
+    "emoji": "🌾",
+    "tier": 2,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "kǒu",
+          "speakerChar": "口"
+        },
+        {
+          "pinyin": "shǒu",
+          "speakerChar": "手"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "tā",
+          "speakerChar": "他"
+        },
+        {
+          "pinyin": "tù",
+          "speakerChar": "兔"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "tiān",
+          "speakerChar": "天"
+        },
+        {
+          "pinyin": "tiào",
+          "speakerChar": "跳"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ma_mom",
+    "traditional": "媽",
+    "simplified": "妈",
+    "pinyin": "mā",
+    "zhuyin": "ㄇㄚ",
+    "emoji": "👩",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shuǐ",
+          "speakerChar": "水"
+        },
+        {
+          "pinyin": "niǎo",
+          "speakerChar": "鳥"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        },
+        {
+          "pinyin": "mén",
+          "speakerChar": "門"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "mǎ",
+          "speakerChar": "馬"
+        },
+        {
+          "pinyin": "mà",
+          "speakerChar": "罵"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba_dad",
+    "traditional": "爸",
+    "simplified": "爸",
+    "pinyin": "bà",
+    "zhuyin": "ㄅㄚˋ",
+    "emoji": "👨",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "xiǎo",
+          "speakerChar": "小"
+        },
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "bái",
+          "speakerChar": "白"
+        },
+        {
+          "pinyin": "bēi",
+          "speakerChar": "杯"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "bā",
+          "speakerChar": "八"
+        },
+        {
+          "pinyin": "bá",
+          "speakerChar": "拔"
+        }
+      ]
+    }
+  },
+  {
+    "id": "wo_i",
+    "traditional": "我",
+    "simplified": "我",
+    "pinyin": "wǒ",
+    "zhuyin": "ㄨㄛˇ",
+    "emoji": "🙋",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shān",
+          "speakerChar": "山"
+        },
+        {
+          "pinyin": "gǒu",
+          "speakerChar": "狗"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "ěr",
+          "speakerChar": "耳"
+        },
+        {
+          "pinyin": "wū",
+          "speakerChar": "屋"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "wò",
+          "speakerChar": "握"
+        },
+        {
+          "pinyin": "wō",
+          "speakerChar": "窩"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ni_you",
+    "traditional": "你",
+    "simplified": "你",
+    "pinyin": "nǐ",
+    "zhuyin": "ㄋㄧˇ",
+    "emoji": "👉",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        },
+        {
+          "pinyin": "huǒ",
+          "speakerChar": "火"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "niǎo",
+          "speakerChar": "鳥"
+        },
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "ní",
+          "speakerChar": "泥"
+        },
+        {
+          "pinyin": "nì",
+          "speakerChar": "膩"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ta_he",
+    "traditional": "他",
+    "simplified": "他",
+    "pinyin": "tā",
+    "zhuyin": "ㄊㄚ",
+    "emoji": "🧑‍🦱",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mǐ",
+          "speakerChar": "米"
+        },
+        {
+          "pinyin": "shàng",
+          "speakerChar": "上"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "tóu",
+          "speakerChar": "頭"
+        },
+        {
+          "pinyin": "tù",
+          "speakerChar": "兔"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "tǎ",
+          "speakerChar": "塔"
+        },
+        {
+          "pinyin": "tà",
+          "speakerChar": "踏"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hao_good",
+    "traditional": "好",
+    "simplified": "好",
+    "pinyin": "hǎo",
+    "zhuyin": "ㄏㄠˇ",
+    "emoji": "👍",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        },
+        {
+          "pinyin": "rì",
+          "speakerChar": "日"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "huā",
+          "speakerChar": "花"
+        },
+        {
+          "pinyin": "hē",
+          "speakerChar": "喝"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "hào",
+          "speakerChar": "號"
+        },
+        {
+          "pinyin": "háo",
+          "speakerChar": "毫"
+        }
+      ]
+    }
+  },
+  {
+    "id": "chi_eat",
+    "traditional": "吃",
+    "simplified": "吃",
+    "pinyin": "chī",
+    "zhuyin": "ㄔ",
+    "emoji": "🍽️",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mù",
+          "speakerChar": "木"
+        },
+        {
+          "pinyin": "yáng",
+          "speakerChar": "羊"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "cǎo",
+          "speakerChar": "草"
+        },
+        {
+          "pinyin": "chē",
+          "speakerChar": "車"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "chí",
+          "speakerChar": "池"
+        },
+        {
+          "pinyin": "chǐ",
+          "speakerChar": "尺"
+        }
+      ]
+    }
+  },
+  {
+    "id": "he_drink",
+    "traditional": "喝",
+    "simplified": "喝",
+    "pinyin": "hē",
+    "zhuyin": "ㄏㄜ",
+    "emoji": "🥤",
+    "tier": 3,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "ěr",
+          "speakerChar": "耳"
+        },
+        {
+          "pinyin": "dà",
+          "speakerChar": "大"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "huǒ",
+          "speakerChar": "火"
+        },
+        {
+          "pinyin": "hǎo",
+          "speakerChar": "好"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "hé",
+          "speakerChar": "河"
+        },
+        {
+          "pinyin": "hè",
+          "speakerChar": "賀"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yi_one",
+    "traditional": "一",
+    "simplified": "一",
+    "pinyin": "yī",
+    "zhuyin": "ㄧ",
+    "emoji": "1️⃣",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "mù",
+          "speakerChar": "木"
+        },
+        {
+          "pinyin": "gǒu",
+          "speakerChar": "狗"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "yú",
+          "speakerChar": "魚"
+        },
+        {
+          "pinyin": "yǔ",
+          "speakerChar": "雨"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "yí",
+          "speakerChar": "姨"
+        },
+        {
+          "pinyin": "yǐ",
+          "speakerChar": "椅"
+        }
+      ]
+    }
+  },
+  {
+    "id": "er_two",
+    "traditional": "二",
+    "simplified": "二",
+    "pinyin": "èr",
+    "zhuyin": "ㄦˋ",
+    "emoji": "2️⃣",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "shān",
+          "speakerChar": "山"
+        },
+        {
+          "pinyin": "mā",
+          "speakerChar": "媽"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "ài",
+          "speakerChar": "愛"
+        },
+        {
+          "pinyin": "ān",
+          "speakerChar": "安"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "ěr",
+          "speakerChar": "耳"
+        },
+        {
+          "pinyin": "ér",
+          "speakerChar": "兒"
+        }
+      ]
+    }
+  },
+  {
+    "id": "san_three",
+    "traditional": "三",
+    "simplified": "三",
+    "pinyin": "sān",
+    "zhuyin": "ㄙㄢ",
+    "emoji": "3️⃣",
+    "tier": 1,
+    "distractorsByLevel": {
+      "1": [
+        {
+          "pinyin": "niú",
+          "speakerChar": "牛"
+        },
+        {
+          "pinyin": "xià",
+          "speakerChar": "下"
+        }
+      ],
+      "2": [
+        {
+          "pinyin": "sì",
+          "speakerChar": "四"
+        },
+        {
+          "pinyin": "sè",
+          "speakerChar": "色"
+        }
+      ],
+      "3": [
+        {
+          "pinyin": "sǎn",
+          "speakerChar": "傘"
+        },
+        {
+          "pinyin": "sàn",
+          "speakerChar": "散"
+        }
+      ]
+    }
+  }
+]

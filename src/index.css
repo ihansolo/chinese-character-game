@@ -1,0 +1,80 @@
+:root {
+  color-scheme: light;
+  --color-bg: #fff8ee;
+  --color-surface: #ffffff;
+  --color-ink: #4a3b2f;
+  --color-primary: #ff9a56;
+  --color-primary-dark: #f07d31;
+  --color-success: #7cc576;
+  --color-success-dark: #5aa854;
+  --color-danger-soft: #f2a4a4;
+  --color-muted: #a99687;
+  /* Chiron GoRound TC for hanzi. Falls back per-glyph to Noto Serif for
+     any character it doesn't cover (e.g. some simplified forms). */
+  --font-display: "Chiron GoRound TC", "Noto Serif TC", "Noto Serif SC", serif;
+  /* Mali for all Latin/pinyin UI text — verified it has full glyph coverage
+     for pinyin tone marks (ā, ǎ, ē, ě, etc.), so it's safe for pinyin too. */
+  --font-heading: "Mali", system-ui, "Noto Sans TC", "Noto Sans SC", sans-serif;
+  --font-ui: "Mali", system-ui, "Noto Sans TC", "Noto Sans SC", sans-serif;
+  --tap-min: 64px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-heading);
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+  user-select: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+}
+
+@keyframes shake {
+  10%, 90% { transform: translateX(-2px); }
+  20%, 80% { transform: translateX(4px); }
+  30%, 50%, 70% { transform: translateX(-8px); }
+  40%, 60% { transform: translateX(8px); }
+}
+
+.shake {
+  animation: shake 0.5s ease-in-out;
+}
+
+@keyframes balloon-rise {
+  from { transform: translateY(0); }
+  to { transform: translateY(-115vh); }
+}
+
+@keyframes balloon-pop {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.3); opacity: 1; }
+  100% { transform: scale(0); opacity: 0; }
+}
+
+@keyframes balloon-wobble {
+  0% { transform: rotate(0deg); opacity: 1; }
+  25% { transform: rotate(-12deg); }
+  75% { transform: rotate(12deg); }
+  100% { transform: translateY(-40px) rotate(0deg) scale(0.7); opacity: 0; }
+}
